@@ -12,7 +12,7 @@
 
 
 <div align="center">
-  <img border-radius: 15px src="author.jpeg" width="400" height="400"/>
+  <img border-radius: 15px src="Author.jpeg" width="400" height="400"/>
 
   <p align="center">
 
